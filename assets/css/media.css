@@ -1,0 +1,29 @@
+@media (max-width:768px) {
+  #conduce{
+    height: 21em;
+  }
+  
+  .gris{
+    height: 21em;
+    padding-top: .5em;
+  }
+  
+  #informacion {
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .caja-linea{
+    margin-left: 8.3%;
+    margin-top: 1em;
+  }
+  
+  .pie{
+    padding-top: 3em;
+  }
+  .cuadro-mapa{
+  height: 20em;
+  }
+}
